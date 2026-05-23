@@ -5,7 +5,7 @@ blog/__pycache__
 .DS_Store
 .vscode
 app/.deta
-.db
+*.db
 venv
 app/blog/__pycache__
 fastapi
