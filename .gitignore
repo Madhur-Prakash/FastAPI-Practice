@@ -5,5 +5,6 @@ blog/__pycache__
 .DS_Store
 .vscode
 app/.deta
+venv
 app/blog/__pycache__
 fastapi
