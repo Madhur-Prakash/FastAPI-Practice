@@ -12,7 +12,7 @@ class Blog(BaseModel):
 
 @app.get("/")
 def index():
-    return  {"data":{"name":"sarthak"}}   
+    return  {"data":{"name":"jhon"}}   
 
 @app.get('/about')
 def about(limit=10,published:bool=True,sort:Optional[str]=None):
